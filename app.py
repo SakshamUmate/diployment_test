@@ -53,6 +53,4 @@ def calculates():
 
 
 
-if __name__=="__main__":
-    app.run(host="0.0.0.0")
 #The host="0.0.0.0" parameter makes the application accessible from any network interface
