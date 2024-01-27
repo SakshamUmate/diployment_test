@@ -1,2 +1,3 @@
 flask
 Gunicorn
+pip install --upgrade pip
